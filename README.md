@@ -4,6 +4,9 @@ Criando uma Nuvem de Palavras com Dados do twitter e python.
 <b>Você precisará criar uma conta no https://developer.twitter.com/en</b> <br>
 <b>Tutorial:</b> https://medium.com/programadores-ajudando-programadores/api-do-twitter-criando-o-app-e-obtendo-os-tokens-28ef3e2a281c
 
+Se você possui o <b>acesso Elevado</b> no twitter developer, vc pode usar o arquivo de tal nome.
+Se não, use o arquivo de <b>"normal-access"</b>
+
 <b>Metodologias aplicadas:</b>
 https://medium.com/data-pack/crie-uma-nuvem-de-palavras-com-dados-do-twitter-e-python-633c1689b626
 
